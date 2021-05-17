@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.htwberlin.TripletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:47:42" hostname="LAPTOP-I3JIGTOI" time="0.053">
+  <properties/>
+  <testcase name="triplettest()" classname="de.htwberlin.TripletTest" time="0.047"/>
+  <testcase name="exeptionttest()" classname="de.htwberlin.TripletTest" time="0.003"/>
+  <testcase name="triplettest2()" classname="de.htwberlin.TripletTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
